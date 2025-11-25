@@ -29,9 +29,6 @@ The Tableau workbook (`hospital_charges_inpatients.twbx`) includes:
 - Built a bar chart in Tableau showing **average billed charges per state**
 - Added filters and labels to make the visualization easy to read and interactive
 
-##  How I Would Explain This in an Interview
-
-> I worked with a real healthcare billing dataset to analyze how inpatient hospital charges vary across states. I used Tableau to build an interactive bar chart of average charges by state, applied currency formatting, and added filters so users can explore specific states. This project shows my ability to clean data, choose appropriate visualizations, and clearly communicate cost differences in healthcare.
 
 ##  Files
 
